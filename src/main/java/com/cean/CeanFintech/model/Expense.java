@@ -1,4 +1,8 @@
-package com.cean.CeanFintech;
+package com.cean.CeanFintech.model;
+
+import com.cean.CeanFintech.enums.ItemStats;
+import com.cean.CeanFintech.enums.PaymentMethod;
+import com.cean.CeanFintech.enums.Type;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

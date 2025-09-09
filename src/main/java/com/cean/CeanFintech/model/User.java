@@ -1,4 +1,4 @@
-package com.cean.CeanFintech;
+package com.cean.CeanFintech.model;
 
 public class User {
     private final Long id;

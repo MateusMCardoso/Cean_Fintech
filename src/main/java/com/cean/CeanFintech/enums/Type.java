@@ -1,4 +1,4 @@
-package com.cean.CeanFintech;
+package com.cean.CeanFintech.enums;
 
 public enum Type {
         RECEITA("Receita"),

@@ -1,10 +1,16 @@
 package com.cean.CeanFintech;
 
+import com.cean.CeanFintech.enums.ItemStats;
+import com.cean.CeanFintech.enums.PaymentMethod;
+import com.cean.CeanFintech.enums.Type;
+import com.cean.CeanFintech.model.Category;
+import com.cean.CeanFintech.model.Expense;
+
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class Main {
+public class CeanFintechApplication {
 
     public static void main(String[] args) {
 

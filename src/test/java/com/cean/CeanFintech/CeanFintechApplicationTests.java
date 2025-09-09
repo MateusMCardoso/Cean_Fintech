@@ -8,6 +8,7 @@ class CeanFintechApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }

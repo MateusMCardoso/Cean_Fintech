@@ -1,4 +1,6 @@
-package com.cean.CeanFintech;
+package com.cean.CeanFintech.model;
+
+import com.cean.CeanFintech.enums.Type;
 
 public class Category {
     private final Long id;
